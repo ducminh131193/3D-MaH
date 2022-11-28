@@ -1,0 +1,1481 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#: shortcodes/architecture-shortcodes.php:811
+#: shortcodes/architecture-shortcodes.php:819
+#: shortcodes/architecture-shortcodes.php:827
+#: shortcodes/architecture-shortcodes.php:835
+#: shortcodes/architecture-shortcodes.php:908
+#: shortcodes/architecture-shortcodes.php:916
+#: shortcodes/architecture-shortcodes.php:924
+#: shortcodes/architecture-shortcodes.php:945
+#: shortcodes/architecture-shortcodes.php:953
+#: shortcodes/architecture-shortcodes.php:961 shortcodes/price-table.php:107
+#: shortcodes/price-table.php:115 shortcodes/price-table.php:123
+#: shortcodes/price-table.php:131 shortcodes/price-table.php:148
+#: shortcodes/price-table.php:156
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Architecture Engine\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-11-12 11:52+0500\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: architecture-engine.php:46
+msgid "Architecture Engine"
+msgstr ""
+
+#: architecture-engine.php:61
+msgctxt "post type general name"
+msgid "Projects"
+msgstr ""
+
+#: architecture-engine.php:62
+msgctxt "post type singular name"
+msgid "Project"
+msgstr ""
+
+#: architecture-engine.php:63
+msgctxt "admin menu"
+msgid "Projects"
+msgstr ""
+
+#: architecture-engine.php:64
+msgctxt "add new on admin bar"
+msgid "Project"
+msgstr ""
+
+#: architecture-engine.php:65
+msgctxt "project"
+msgid "Add New"
+msgstr ""
+
+#: architecture-engine.php:66
+msgid "Add New Project"
+msgstr ""
+
+#: architecture-engine.php:67
+msgid "New Project"
+msgstr ""
+
+#: architecture-engine.php:68
+msgid "Edit Project"
+msgstr ""
+
+#: architecture-engine.php:69
+msgid "View Project"
+msgstr ""
+
+#: architecture-engine.php:70
+msgid "All Projects"
+msgstr ""
+
+#: architecture-engine.php:71
+msgid "Search Projects"
+msgstr ""
+
+#: architecture-engine.php:72
+msgid "Parent Projects:"
+msgstr ""
+
+#: architecture-engine.php:73
+msgid "No Projects found."
+msgstr ""
+
+#: architecture-engine.php:74
+msgid "No Projects found in Trash."
+msgstr ""
+
+#: architecture-engine.php:79 architecture-engine.php:114
+#: architecture-engine.php:149 architecture-engine.php:184
+#: architecture-engine.php:219
+msgid "Description."
+msgstr ""
+
+#: architecture-engine.php:96
+msgctxt "post type general name"
+msgid "Team"
+msgstr ""
+
+#: architecture-engine.php:97
+msgctxt "post type singular name"
+msgid "Team"
+msgstr ""
+
+#: architecture-engine.php:98
+msgctxt "admin menu"
+msgid "Team"
+msgstr ""
+
+#: architecture-engine.php:99
+msgctxt "add new on admin bar"
+msgid "Team Member"
+msgstr ""
+
+#: architecture-engine.php:100
+msgctxt "team"
+msgid "Add New"
+msgstr ""
+
+#: architecture-engine.php:101
+msgid "Add New Team Member"
+msgstr ""
+
+#: architecture-engine.php:102
+msgid "New Team Member"
+msgstr ""
+
+#: architecture-engine.php:103
+msgid "Edit Team Member"
+msgstr ""
+
+#: architecture-engine.php:104
+msgid "View Team Member"
+msgstr ""
+
+#: architecture-engine.php:105
+msgid "All Team"
+msgstr ""
+
+#: architecture-engine.php:106
+msgid "Search Team"
+msgstr ""
+
+#: architecture-engine.php:107
+msgid "Parent Team:"
+msgstr ""
+
+#: architecture-engine.php:108
+msgid "No Team found."
+msgstr ""
+
+#: architecture-engine.php:109
+msgid "No Team found in Trash."
+msgstr ""
+
+#: architecture-engine.php:131
+msgctxt "post type general name"
+msgid "Testimonials"
+msgstr ""
+
+#: architecture-engine.php:132
+msgctxt "post type singular name"
+msgid "Testimonial"
+msgstr ""
+
+#: architecture-engine.php:133
+msgctxt "admin menu"
+msgid "Testimonials"
+msgstr ""
+
+#: architecture-engine.php:134
+msgctxt "add new on admin bar"
+msgid "Testimonial"
+msgstr ""
+
+#: architecture-engine.php:135
+msgctxt "testimonial"
+msgid "Add New"
+msgstr ""
+
+#: architecture-engine.php:136
+msgid "Add New Testimonial"
+msgstr ""
+
+#: architecture-engine.php:137
+msgid "New Testimonial"
+msgstr ""
+
+#: architecture-engine.php:138
+msgid "Edit Testimonial"
+msgstr ""
+
+#: architecture-engine.php:139
+msgid "View Testimonial"
+msgstr ""
+
+#: architecture-engine.php:140
+msgid "All Testimonial"
+msgstr ""
+
+#: architecture-engine.php:141
+msgid "Search Testimonials"
+msgstr ""
+
+#: architecture-engine.php:142
+msgid "Parent Testimonials:"
+msgstr ""
+
+#: architecture-engine.php:143
+msgid "No Testimonials found."
+msgstr ""
+
+#: architecture-engine.php:144
+msgid "No Testimonials found in Trash."
+msgstr ""
+
+#: architecture-engine.php:166
+msgctxt "post type general name"
+msgid "Services"
+msgstr ""
+
+#: architecture-engine.php:167
+msgctxt "post type singular name"
+msgid "Service"
+msgstr ""
+
+#: architecture-engine.php:168
+msgctxt "admin menu"
+msgid "Services"
+msgstr ""
+
+#: architecture-engine.php:169
+msgctxt "add new on admin bar"
+msgid "Service"
+msgstr ""
+
+#: architecture-engine.php:170
+msgctxt "service"
+msgid "Add New"
+msgstr ""
+
+#: architecture-engine.php:171
+msgid "Add New Service"
+msgstr ""
+
+#: architecture-engine.php:172
+msgid "New Service"
+msgstr ""
+
+#: architecture-engine.php:173
+msgid "Edit Service"
+msgstr ""
+
+#: architecture-engine.php:174
+msgid "View Service"
+msgstr ""
+
+#: architecture-engine.php:175
+msgid "All Service"
+msgstr ""
+
+#: architecture-engine.php:176
+msgid "Search Services"
+msgstr ""
+
+#: architecture-engine.php:177
+msgid "Parent Services:"
+msgstr ""
+
+#: architecture-engine.php:178
+msgid "No Services found."
+msgstr ""
+
+#: architecture-engine.php:179
+msgid "No Services found in Trash."
+msgstr ""
+
+#: architecture-engine.php:201
+msgctxt "post type general name"
+msgid "Sliders"
+msgstr ""
+
+#: architecture-engine.php:202
+msgctxt "post type singular name"
+msgid "Slider"
+msgstr ""
+
+#: architecture-engine.php:203
+msgctxt "admin menu"
+msgid "Sliders"
+msgstr ""
+
+#: architecture-engine.php:204
+msgctxt "add new on admin bar"
+msgid "Slider"
+msgstr ""
+
+#: architecture-engine.php:205
+msgctxt "slider"
+msgid "Add New"
+msgstr ""
+
+#: architecture-engine.php:206
+msgid "Add New Slider"
+msgstr ""
+
+#: architecture-engine.php:207
+msgid "New Slider"
+msgstr ""
+
+#: architecture-engine.php:208
+msgid "Edit Slider"
+msgstr ""
+
+#: architecture-engine.php:209
+msgid "View Slider"
+msgstr ""
+
+#: architecture-engine.php:210
+msgid "All Slider"
+msgstr ""
+
+#: architecture-engine.php:211
+msgid "Search Sliders"
+msgstr ""
+
+#: architecture-engine.php:212
+msgid "Parent Sliders:"
+msgstr ""
+
+#: architecture-engine.php:213
+msgid "No Sliders found."
+msgstr ""
+
+#: architecture-engine.php:214
+msgid "No Sliders found in Trash."
+msgstr ""
+
+#: architecture-engine.php:243
+msgctxt "taxonomy general name"
+msgid "Clients"
+msgstr ""
+
+#: architecture-engine.php:244
+msgctxt "taxonomy singular name"
+msgid "Client"
+msgstr ""
+
+#: architecture-engine.php:245
+msgid "Search Clients"
+msgstr ""
+
+#: architecture-engine.php:246
+msgid "Popular Clients"
+msgstr ""
+
+#: architecture-engine.php:247
+msgid "All Clients"
+msgstr ""
+
+#: architecture-engine.php:250
+msgid "Edit Client"
+msgstr ""
+
+#: architecture-engine.php:251
+msgid "Update Client"
+msgstr ""
+
+#: architecture-engine.php:252
+msgid "Add New Client"
+msgstr ""
+
+#: architecture-engine.php:253
+msgid "New Client Name"
+msgstr ""
+
+#: architecture-engine.php:254
+msgid "Separate clients with commas"
+msgstr ""
+
+#: architecture-engine.php:255
+msgid "Add or remove clients"
+msgstr ""
+
+#: architecture-engine.php:256
+msgid "Choose from the most used clients"
+msgstr ""
+
+#: architecture-engine.php:257
+msgid "No clients found."
+msgstr ""
+
+#: architecture-engine.php:258 shortcodes/architecture-shortcodes.php:1174
+msgid "Clients"
+msgstr ""
+
+#: architecture-engine.php:276
+msgctxt "taxonomy general name"
+msgid "Architects"
+msgstr ""
+
+#: architecture-engine.php:277
+msgctxt "taxonomy singular name"
+msgid "Architect"
+msgstr ""
+
+#: architecture-engine.php:278
+msgid "Search Architects"
+msgstr ""
+
+#: architecture-engine.php:279
+msgid "Popular Architects"
+msgstr ""
+
+#: architecture-engine.php:280
+msgid "All Architects"
+msgstr ""
+
+#: architecture-engine.php:283
+msgid "Edit Architect"
+msgstr ""
+
+#: architecture-engine.php:284
+msgid "Update Architect"
+msgstr ""
+
+#: architecture-engine.php:285
+msgid "Add New Architect"
+msgstr ""
+
+#: architecture-engine.php:286
+msgid "New Architect Name"
+msgstr ""
+
+#: architecture-engine.php:287
+msgid "Separate architects with commas"
+msgstr ""
+
+#: architecture-engine.php:288
+msgid "Add or remove architects"
+msgstr ""
+
+#: architecture-engine.php:289
+msgid "Choose from the most used architects"
+msgstr ""
+
+#: architecture-engine.php:290
+msgid "No architects found."
+msgstr ""
+
+#: architecture-engine.php:291
+msgid "Architects"
+msgstr ""
+
+#: architecture-engine.php:309
+msgctxt "taxonomy general name"
+msgid "Programs"
+msgstr ""
+
+#: architecture-engine.php:310
+msgctxt "taxonomy singular name"
+msgid "Program"
+msgstr ""
+
+#: architecture-engine.php:311
+msgid "Search Programs"
+msgstr ""
+
+#: architecture-engine.php:312
+msgid "Popular Programs"
+msgstr ""
+
+#: architecture-engine.php:313
+msgid "All Programs"
+msgstr ""
+
+#: architecture-engine.php:316
+msgid "Edit Program"
+msgstr ""
+
+#: architecture-engine.php:317
+msgid "Update Program"
+msgstr ""
+
+#: architecture-engine.php:318
+msgid "Add New Program"
+msgstr ""
+
+#: architecture-engine.php:319
+msgid "New Program Name"
+msgstr ""
+
+#: architecture-engine.php:320
+msgid "Separate programs with commas"
+msgstr ""
+
+#: architecture-engine.php:321
+msgid "Add or remove programs"
+msgstr ""
+
+#: architecture-engine.php:322
+msgid "Choose from the most used programs"
+msgstr ""
+
+#: architecture-engine.php:323
+msgid "No programs found."
+msgstr ""
+
+#: architecture-engine.php:324
+msgid "Programs"
+msgstr ""
+
+#: architecture-engine.php:342
+msgctxt "taxonomy general name"
+msgid "Categories"
+msgstr ""
+
+#: architecture-engine.php:343
+msgctxt "taxonomy singular name"
+msgid "Category"
+msgstr ""
+
+#: architecture-engine.php:344
+msgid "Search Categories"
+msgstr ""
+
+#: architecture-engine.php:345
+msgid "Popular Categories"
+msgstr ""
+
+#: architecture-engine.php:346
+msgid "All Categories"
+msgstr ""
+
+#: architecture-engine.php:349
+msgid "Edit Category"
+msgstr ""
+
+#: architecture-engine.php:350
+msgid "Update Category"
+msgstr ""
+
+#: architecture-engine.php:351
+msgid "Add New Category"
+msgstr ""
+
+#: architecture-engine.php:352
+msgid "New Category Name"
+msgstr ""
+
+#: architecture-engine.php:353
+msgid "Separate categories with commas"
+msgstr ""
+
+#: architecture-engine.php:354
+msgid "Add or remove categories"
+msgstr ""
+
+#: architecture-engine.php:355
+msgid "Choose from the most used categories"
+msgstr ""
+
+#: architecture-engine.php:356
+msgid "No categories found."
+msgstr ""
+
+#: architecture-engine.php:357
+msgid "Categories"
+msgstr ""
+
+#: architecture-engine.php:411
+msgid "Contact Request"
+msgstr ""
+
+#: architecture-engine.php:420
+msgid "Name"
+msgstr ""
+
+#: architecture-engine.php:424
+msgid "Email"
+msgstr ""
+
+#: architecture-engine.php:428
+msgid "Message"
+msgstr ""
+
+#: redux/architecture-config.php:30
+msgid "Architecture"
+msgstr ""
+
+#: redux/architecture-config.php:38 redux/architecture-config.php:39
+msgid "Theme Options"
+msgstr ""
+
+#: redux/architecture-config.php:145
+msgid "General"
+msgstr ""
+
+#: redux/architecture-config.php:155
+msgid "Theme Color"
+msgstr ""
+
+#: redux/architecture-config.php:156
+msgid ""
+"This color is applied to different elements on your website like shortcodes, "
+"read more links, blog elements and buttons."
+msgstr ""
+
+#: redux/architecture-config.php:166
+msgid "Theme Skin"
+msgstr ""
+
+#: redux/architecture-config.php:167
+msgid ""
+"Selecting any skin here will load a pre-defined color scheme for your "
+"website. If any of the skin is selected, many of your colors related theme "
+"options will not work including the Theme Color option."
+msgstr ""
+
+#: redux/architecture-config.php:221
+msgid "Body Background Color"
+msgstr ""
+
+#: redux/architecture-config.php:230
+msgid "Body Font Color"
+msgstr ""
+
+#: redux/architecture-config.php:239
+msgid "Body Link Color"
+msgstr ""
+
+#: redux/architecture-config.php:250
+msgid "Logo"
+msgstr ""
+
+#: redux/architecture-config.php:257
+msgid "Loading Screen Logo"
+msgstr ""
+
+#: redux/architecture-config.php:262
+msgid "Logo URL"
+msgstr ""
+
+#: redux/architecture-config.php:263
+msgid "If you want to link your logo to any link other than website home page."
+msgstr ""
+
+#: redux/architecture-config.php:269
+msgid "Contact Email"
+msgstr ""
+
+#: redux/architecture-config.php:270
+msgid "Any submission on contact page will be sent to this email address."
+msgstr ""
+
+#: redux/architecture-config.php:275
+msgid "Google Maps Api Key"
+msgstr ""
+
+#: redux/architecture-config.php:276
+msgid ""
+"Google maps now require api key to show maps on your website. So this field "
+"must be filled if you want to use maps. Please <a href=\"https://developers."
+"google.com/maps/documentation/javascript/get-api-key\" target=\"_blank"
+"\">click here</a> to learn how to generate this key for your website."
+msgstr ""
+
+#: redux/architecture-config.php:281
+msgid "Blog Page Title"
+msgstr ""
+
+#: redux/architecture-config.php:282
+msgid "Blog"
+msgstr ""
+
+#: redux/architecture-config.php:288
+msgid "Blog Page Subtitle"
+msgstr ""
+
+#: redux/architecture-config.php:293
+msgid "Projects Archive Page Title"
+msgstr ""
+
+#: redux/architecture-config.php:294
+msgid "Our Creative Work"
+msgstr ""
+
+#: redux/architecture-config.php:300
+msgid "Projects Archive Page Subtitle"
+msgstr ""
+
+#: redux/architecture-config.php:308
+msgid "Projects Per Page"
+msgstr ""
+
+#: redux/architecture-config.php:316
+msgid "Header"
+msgstr ""
+
+#: redux/architecture-config.php:324
+msgid "Header Layout"
+msgstr ""
+
+#: redux/architecture-config.php:340
+msgid "Header Background Color"
+msgstr ""
+
+#: redux/architecture-config.php:350
+msgid "Header Font Color"
+msgstr ""
+
+#: redux/architecture-config.php:351
+msgid "This color will also be applied to the menu items."
+msgstr ""
+
+#: redux/architecture-config.php:360
+msgid "Menu Hover Color"
+msgstr ""
+
+#: redux/architecture-config.php:369
+msgid "Menu Hover Line/Box Color"
+msgstr ""
+
+#: redux/architecture-config.php:379
+msgid "Show Menu number"
+msgstr ""
+
+#: redux/architecture-config.php:390
+msgid "Show Menu Number"
+msgstr ""
+
+#: redux/architecture-config.php:399
+msgid "Menu Number Color"
+msgstr ""
+
+#: redux/architecture-config.php:410
+msgid "Flyout Menu Icon Color"
+msgstr ""
+
+#: redux/architecture-config.php:423
+msgid "Flyout Font Color"
+msgstr ""
+
+#: redux/architecture-config.php:435
+msgid "Flyout Hover Color"
+msgstr ""
+
+#: redux/architecture-config.php:447
+msgid "Show Follow Us Section in Flyout/Mobile Menu"
+msgstr ""
+
+#: redux/architecture-config.php:453 redux/architecture-config.php:563
+msgid "Facebook URL"
+msgstr ""
+
+#: redux/architecture-config.php:462 redux/architecture-config.php:573
+msgid "Twitter URL"
+msgstr ""
+
+#: redux/architecture-config.php:471 redux/architecture-config.php:583
+msgid "Google URL"
+msgstr ""
+
+#: redux/architecture-config.php:486
+msgid "Footer"
+msgstr ""
+
+#: redux/architecture-config.php:495
+msgid "Footer Style"
+msgstr ""
+
+#: redux/architecture-config.php:503
+msgid "Footer Font Color"
+msgstr ""
+
+#: redux/architecture-config.php:513
+msgid "Copyright Text"
+msgstr ""
+
+#: redux/architecture-config.php:514
+msgid "Copyrights 2016"
+msgstr ""
+
+#: redux/architecture-config.php:519
+msgid "Powered by Text"
+msgstr ""
+
+#: redux/architecture-config.php:527
+msgid "Use Widgets for Footer"
+msgstr ""
+
+#: redux/architecture-config.php:528
+msgid ""
+"If you select to use widgets for footer, you will have to add your widgets "
+"inside Footer widget area 1,2 and 3 in Appearance >> Widgets section of "
+"dashboard. "
+msgstr ""
+
+#: redux/architecture-config.php:536
+msgid "Phone Number"
+msgstr ""
+
+#: redux/architecture-config.php:545
+msgid "Email Address"
+msgstr ""
+
+#: redux/architecture-config.php:554
+msgid "Address"
+msgstr ""
+
+#: redux/architecture-config.php:597
+msgid "Custom Styles"
+msgstr ""
+
+#: redux/architecture-config.php:604
+msgid "Custom CSS Code for Desktop"
+msgstr ""
+
+#: redux/architecture-config.php:605
+msgid ""
+"This code will work for any device with size equal to or bigger than 768px."
+msgstr ""
+
+#: redux/architecture-config.php:612
+msgid "Custom CSS Code for Mobile Devices"
+msgstr ""
+
+#: redux/architecture-config.php:613
+msgid "This code will work for any device with size less than 768px."
+msgstr ""
+
+#: redux/architecture-config.php:623 redux/architecture-config.php:639
+msgid "Custom Scripts"
+msgstr ""
+
+#: redux/architecture-config.php:630
+msgid "Tracking Codes"
+msgstr ""
+
+#: redux/architecture-config.php:631
+msgid "This code will be placed right before the closing tag of head."
+msgstr ""
+
+#: redux/architecture-config.php:633 redux/architecture-config.php:642
+msgid ""
+"Do not use the \"$\" as selector, you can use the \"jQuery\" selector. Also "
+"do not use any script tags, they are already included."
+msgstr ""
+
+#: redux/architecture-config.php:640
+msgid "This code will be placed right before the closing tag of body."
+msgstr ""
+
+#: redux/architecture-config.php:652
+msgid "Typography"
+msgstr ""
+
+#: redux/architecture-config.php:659
+msgid "Main & Sticky Menu Typography"
+msgstr ""
+
+#: redux/architecture-config.php:678
+msgid "Body Typography"
+msgstr ""
+
+#: redux/architecture-config.php:698
+msgid "H1 Typography"
+msgstr ""
+
+#: redux/architecture-config.php:715
+msgid "H2 Typography"
+msgstr ""
+
+#: redux/architecture-config.php:732
+msgid "H3 Typography"
+msgstr ""
+
+#: redux/architecture-config.php:749
+msgid "H4 Typography"
+msgstr ""
+
+#: redux/architecture-config.php:766
+msgid "H5 Typography"
+msgstr ""
+
+#: redux/architecture-config.php:783
+msgid "H6 Typography"
+msgstr ""
+
+#: redux/architecture-config.php:809
+msgid "Theme Information 1"
+msgstr ""
+
+#: redux/architecture-config.php:810 redux/architecture-config.php:815
+msgid "<p>This is the tab content, HTML is allowed.</p>"
+msgstr ""
+
+#: redux/architecture-config.php:814
+msgid "Theme Information 2"
+msgstr ""
+
+#: redux/architecture-config.php:821
+msgid "<p>This is the sidebar content, HTML is allowed.</p>"
+msgstr ""
+
+#: redux/architecture-config.php:940
+msgid "Section via hook"
+msgstr ""
+
+#: redux/architecture-config.php:941
+msgid ""
+"<p class=\"description\">This is a section created by adding a filter to the "
+"sections array. Can be used by child themes to add/remove sections from the "
+"options.</p>"
+msgstr ""
+
+#: redux/wbc_importer/extension_wbc_importer.php:247
+msgid "Demo Already Imported"
+msgstr ""
+
+#: redux/wbc_importer/extension_wbc_importer.php:274
+#: redux/wbc_importer/extension_wbc_importer.php:276
+msgid "Demo Importer"
+msgstr ""
+
+#: redux/wbc_importer/extension_wbc_importer.php:281
+msgid ""
+"Works best to import on a new install of WordPress. This process can take "
+"several minutes. Please be patient."
+msgstr ""
+
+#: redux/wbc_importer/inc/importer/parsers.php:42
+#: redux/wbc_importer/inc/importer/parsers.php:72
+#: redux/wbc_importer/inc/importer/parsers.php:80
+msgid "There was an error when reading this WXR file"
+msgstr ""
+
+#: redux/wbc_importer/inc/importer/parsers.php:43
+msgid ""
+"Details are shown above. The importer will now try again with a different "
+"parser..."
+msgstr ""
+
+#: redux/wbc_importer/inc/importer/parsers.php:84
+#: redux/wbc_importer/inc/importer/parsers.php:89
+#: redux/wbc_importer/inc/importer/parsers.php:279
+#: redux/wbc_importer/inc/importer/parsers.php:468
+msgid ""
+"This does not appear to be a WXR file, missing/invalid WXR version number"
+msgstr ""
+
+#: redux/wbc_importer/inc/importer/radium-importer.php:256
+msgid "Theme options Import file could not be found. Please try again."
+msgstr ""
+
+#: redux/wbc_importer/inc/importer/radium-importer.php:331
+msgid "Widget Import file could not be found. Please try again."
+msgstr ""
+
+#: redux/wbc_importer/inc/importer/radium-importer.php:405
+msgid "Sidebar does not exist in theme (using Inactive)"
+msgstr ""
+
+#: redux/wbc_importer/inc/importer/radium-importer.php:427
+msgid "Site does not support widget"
+msgstr ""
+
+#: redux/wbc_importer/inc/importer/radium-importer.php:450
+msgid "Widget already exists"
+msgstr ""
+
+#: redux/wbc_importer/inc/importer/radium-importer.php:499
+#: redux/wbc_importer/wbc_importer/field_wbc_importer.php:116
+msgid "Imported"
+msgstr ""
+
+#: redux/wbc_importer/inc/importer/radium-importer.php:502
+msgid "Imported to Inactive"
+msgstr ""
+
+#: redux/wbc_importer/inc/importer/radium-importer.php:509
+msgid "No Title"
+msgstr ""
+
+#: redux/wbc_importer/inc/importer/wordpress-importer.php:134
+#: redux/wbc_importer/inc/importer/wordpress-importer.php:143
+#: redux/wbc_importer/inc/importer/wordpress-importer.php:194
+#: redux/wbc_importer/inc/importer/wordpress-importer.php:198
+#: redux/wbc_importer/inc/importer/wordpress-importer.php:207
+msgid "Sorry, there has been an error."
+msgstr ""
+
+#: redux/wbc_importer/inc/importer/wordpress-importer.php:135
+msgid "The file does not exist, please try again."
+msgstr ""
+
+#: redux/wbc_importer/inc/importer/wordpress-importer.php:178
+msgid "All done."
+msgstr ""
+
+#: redux/wbc_importer/inc/importer/wordpress-importer.php:178
+msgid "Have fun!"
+msgstr ""
+
+#: redux/wbc_importer/inc/importer/wordpress-importer.php:179
+msgid "Remember to update the passwords and roles of imported users."
+msgstr ""
+
+#: redux/wbc_importer/inc/importer/wordpress-importer.php:199
+#, php-format
+msgid ""
+"The export file could not be found at <code>%s</code>. It is likely that "
+"this was caused by a permissions problem."
+msgstr ""
+
+#: redux/wbc_importer/inc/importer/wordpress-importer.php:215
+#, php-format
+msgid ""
+"This WXR file (version %s) may not be supported by this version of the "
+"importer. Please consider updating."
+msgstr ""
+
+#: redux/wbc_importer/inc/importer/wordpress-importer.php:240
+#, php-format
+msgid ""
+"Failed to import author %s. Their posts will be attributed to the current "
+"user."
+msgstr ""
+
+#: redux/wbc_importer/inc/importer/wordpress-importer.php:266
+msgid "Assign Authors"
+msgstr ""
+
+#: redux/wbc_importer/inc/importer/wordpress-importer.php:267
+msgid ""
+"To make it easier for you to edit and save the imported content, you may "
+"want to reassign the author of the imported item to an existing user of this "
+"site. For example, you may want to import all the entries as <code>admin</"
+"code>s entries."
+msgstr ""
+
+#: redux/wbc_importer/inc/importer/wordpress-importer.php:269
+#, php-format
+msgid ""
+"If a new user is created by WordPress, a new password will be randomly "
+"generated and the new user&#8217;s role will be set as %s. Manually changing "
+"the new user&#8217;s details will be necessary."
+msgstr ""
+
+#: redux/wbc_importer/inc/importer/wordpress-importer.php:279
+msgid "Import Attachments"
+msgstr ""
+
+#: redux/wbc_importer/inc/importer/wordpress-importer.php:282
+msgid "Download and import file attachments"
+msgstr ""
+
+#: redux/wbc_importer/inc/importer/wordpress-importer.php:286
+msgid "Submit"
+msgstr ""
+
+#: redux/wbc_importer/inc/importer/wordpress-importer.php:299
+msgid "Import author:"
+msgstr ""
+
+#: redux/wbc_importer/inc/importer/wordpress-importer.php:310
+msgid "or create new user with login name:"
+msgstr ""
+
+#: redux/wbc_importer/inc/importer/wordpress-importer.php:313
+msgid "as a new user:"
+msgstr ""
+
+#: redux/wbc_importer/inc/importer/wordpress-importer.php:321
+msgid "assign posts to an existing user:"
+msgstr ""
+
+#: redux/wbc_importer/inc/importer/wordpress-importer.php:323
+msgid "or assign posts to an existing user:"
+msgstr ""
+
+#: redux/wbc_importer/inc/importer/wordpress-importer.php:324
+msgid "- Select -"
+msgstr ""
+
+#: redux/wbc_importer/inc/importer/wordpress-importer.php:374
+#, php-format
+msgid ""
+"Failed to create new user for %s. Their posts will be attributed to the "
+"current user."
+msgstr ""
+
+#: redux/wbc_importer/inc/importer/wordpress-importer.php:425
+#, php-format
+msgid "Failed to import category %s"
+msgstr ""
+
+#: redux/wbc_importer/inc/importer/wordpress-importer.php:465
+#, php-format
+msgid "Failed to import post tag %s"
+msgstr ""
+
+#: redux/wbc_importer/inc/importer/wordpress-importer.php:511
+#: redux/wbc_importer/inc/importer/wordpress-importer.php:652
+#, php-format
+msgid "Failed to import %s %s"
+msgstr ""
+
+#: redux/wbc_importer/inc/importer/wordpress-importer.php:537
+#, php-format
+msgid "Failed to import &#8220;%s&#8221;: Invalid post type %s"
+msgstr ""
+
+#: redux/wbc_importer/inc/importer/wordpress-importer.php:559
+#, php-format
+msgid "%s &#8220;%s&#8221; already exists."
+msgstr ""
+
+#: redux/wbc_importer/inc/importer/wordpress-importer.php:618
+#, php-format
+msgid "Failed to import %s &#8220;%s&#8221;"
+msgstr ""
+
+#: redux/wbc_importer/inc/importer/wordpress-importer.php:783
+msgid "Menu item skipped due to missing menu slug"
+msgstr ""
+
+#: redux/wbc_importer/inc/importer/wordpress-importer.php:790
+#, php-format
+msgid "Menu item skipped due to invalid menu slug: %s"
+msgstr ""
+
+#: redux/wbc_importer/inc/importer/wordpress-importer.php:853
+msgid "Fetching attachments is not enabled"
+msgstr ""
+
+#: redux/wbc_importer/inc/importer/wordpress-importer.php:866
+msgid "Invalid file type"
+msgstr ""
+
+#: redux/wbc_importer/inc/importer/wordpress-importer.php:910
+msgid "Remote server did not respond"
+msgstr ""
+
+#: redux/wbc_importer/inc/importer/wordpress-importer.php:916
+#, php-format
+msgid "Remote server returned error response %1$d %2$s"
+msgstr ""
+
+#: redux/wbc_importer/inc/importer/wordpress-importer.php:923
+msgid "Remote file is incorrect size"
+msgstr ""
+
+#: redux/wbc_importer/inc/importer/wordpress-importer.php:928
+msgid "Zero size file downloaded"
+msgstr ""
+
+#: redux/wbc_importer/inc/importer/wordpress-importer.php:934
+#, php-format
+msgid "Remote file is too large, limit is %s"
+msgstr ""
+
+#: redux/wbc_importer/inc/importer/wordpress-importer.php:1032
+msgid "Import WordPress"
+msgstr ""
+
+#: redux/wbc_importer/inc/importer/wordpress-importer.php:1039
+#, php-format
+msgid ""
+"A new version of this importer is available. Please update to version %s to "
+"ensure compatibility with newer export files."
+msgstr ""
+
+#: redux/wbc_importer/inc/importer/wordpress-importer.php:1054
+msgid ""
+"Howdy! Upload your WordPress eXtended RSS (WXR) file and we&#8217;ll import "
+"the posts, pages, comments, custom fields, categories, and tags into this "
+"site."
+msgstr ""
+
+#: redux/wbc_importer/inc/importer/wordpress-importer.php:1055
+msgid "Choose a WXR (.xml) file to upload, then click Upload file and import."
+msgstr ""
+
+#: redux/wbc_importer/wbc_importer/field_wbc_importer.php:93
+#: redux/wbc_importer/wbc_importer/field_wbc_importer.php:114
+msgid "Import Demo"
+msgstr ""
+
+#: redux/wbc_importer/wbc_importer/field_wbc_importer.php:97
+msgid "Demo Imported"
+msgstr ""
+
+#: redux/wbc_importer/wbc_importer/field_wbc_importer.php:114
+#: redux/wbc_importer/wbc_importer/field_wbc_importer.php:117
+msgid "Please Wait..."
+msgstr ""
+
+#: redux/wbc_importer/wbc_importer/field_wbc_importer.php:118
+msgid "Re-Import"
+msgstr ""
+
+#: redux/wbc_importer/wbc_importer/field_wbc_importer.php:127
+msgid "No Demo Data Provided"
+msgstr ""
+
+#: shortcodes/architecture-shortcodes.php:481
+#: shortcodes/architecture-shortcodes.php:483
+msgid "View All Projects"
+msgstr ""
+
+#: shortcodes/architecture-shortcodes.php:741
+#: shortcodes/architecture-shortcodes.php:772
+msgid "No Slider found!"
+msgstr ""
+
+#: shortcodes/architecture-shortcodes.php:792
+msgid "Projects"
+msgstr ""
+
+#: shortcodes/architecture-shortcodes.php:794
+#: shortcodes/architecture-shortcodes.php:866
+#: shortcodes/architecture-shortcodes.php:900
+#: shortcodes/architecture-shortcodes.php:937
+#: shortcodes/architecture-shortcodes.php:974
+#: shortcodes/architecture-shortcodes.php:1032
+#: shortcodes/architecture-shortcodes.php:1054
+#: shortcodes/architecture-shortcodes.php:1099
+#: shortcodes/architecture-shortcodes.php:1177
+#: shortcodes/architecture-shortcodes.php:1222
+#: shortcodes/architecture-shortcodes.php:1266
+#: shortcodes/architecture-shortcodes.php:1401 shortcodes/price-table.php:71
+msgid "Architecture Theme"
+msgstr ""
+
+#: shortcodes/architecture-shortcodes.php:801
+msgid "Limit"
+msgstr ""
+
+#: shortcodes/architecture-shortcodes.php:803
+msgid "6"
+msgstr ""
+
+#: shortcodes/architecture-shortcodes.php:809
+#: shortcodes/architecture-shortcodes.php:872
+#: shortcodes/architecture-shortcodes.php:906
+#: shortcodes/architecture-shortcodes.php:943
+#: shortcodes/architecture-shortcodes.php:1183
+#: shortcodes/architecture-shortcodes.php:1228
+#: shortcodes/architecture-shortcodes.php:1272 shortcodes/price-table.php:83
+msgid "Heading"
+msgstr ""
+
+#: shortcodes/architecture-shortcodes.php:817
+#: shortcodes/architecture-shortcodes.php:879
+#: shortcodes/architecture-shortcodes.php:914
+#: shortcodes/architecture-shortcodes.php:951
+#: shortcodes/architecture-shortcodes.php:1190
+#: shortcodes/architecture-shortcodes.php:1279
+msgid "Sub Heading"
+msgstr ""
+
+#: shortcodes/architecture-shortcodes.php:825
+#: shortcodes/architecture-shortcodes.php:922
+#: shortcodes/architecture-shortcodes.php:959
+#: shortcodes/architecture-shortcodes.php:1198
+msgid "Tagline"
+msgstr ""
+
+#: shortcodes/architecture-shortcodes.php:833
+msgid "More Projects Link"
+msgstr ""
+
+#: shortcodes/architecture-shortcodes.php:841
+msgid "Columns"
+msgstr ""
+
+#: shortcodes/architecture-shortcodes.php:849
+msgid "Style"
+msgstr ""
+
+#: shortcodes/architecture-shortcodes.php:851
+msgid "Classic"
+msgstr ""
+
+#: shortcodes/architecture-shortcodes.php:851
+msgid "Modern"
+msgstr ""
+
+#: shortcodes/architecture-shortcodes.php:863
+msgid "Testimonials"
+msgstr ""
+
+#: shortcodes/architecture-shortcodes.php:886
+msgid "Background"
+msgstr ""
+
+#: shortcodes/architecture-shortcodes.php:897
+msgid "Team"
+msgstr ""
+
+#: shortcodes/architecture-shortcodes.php:934
+msgid "Services"
+msgstr ""
+
+#: shortcodes/architecture-shortcodes.php:971
+msgid "Fun Facts"
+msgstr ""
+
+#: shortcodes/architecture-shortcodes.php:980
+#: shortcodes/architecture-shortcodes.php:994
+#: shortcodes/architecture-shortcodes.php:1008
+msgid "Number"
+msgstr ""
+
+#: shortcodes/architecture-shortcodes.php:987
+#: shortcodes/architecture-shortcodes.php:1001
+#: shortcodes/architecture-shortcodes.php:1015
+#: shortcodes/architecture-shortcodes.php:1287
+#: shortcodes/architecture-shortcodes.php:1303
+#: shortcodes/architecture-shortcodes.php:1319
+#: shortcodes/architecture-shortcodes.php:1335
+#: shortcodes/architecture-shortcodes.php:1351
+#: shortcodes/architecture-shortcodes.php:1367
+#: shortcodes/architecture-shortcodes.php:1408
+#: shortcodes/architecture-shortcodes.php:1424
+#: shortcodes/architecture-shortcodes.php:1440 shortcodes/price-table.php:105
+msgid "Title"
+msgstr ""
+
+#: shortcodes/architecture-shortcodes.php:1029
+msgid "Slider"
+msgstr ""
+
+#: shortcodes/architecture-shortcodes.php:1038
+msgid "Slider ID"
+msgstr ""
+
+#: shortcodes/architecture-shortcodes.php:1051
+msgid "Icon Set"
+msgstr ""
+
+#: shortcodes/architecture-shortcodes.php:1060
+#: shortcodes/architecture-shortcodes.php:1105
+#: shortcodes/architecture-shortcodes.php:1235
+#: shortcodes/architecture-shortcodes.php:1295
+#: shortcodes/architecture-shortcodes.php:1311
+#: shortcodes/architecture-shortcodes.php:1327
+#: shortcodes/architecture-shortcodes.php:1343
+#: shortcodes/architecture-shortcodes.php:1359
+#: shortcodes/architecture-shortcodes.php:1375
+#: shortcodes/architecture-shortcodes.php:1416
+#: shortcodes/architecture-shortcodes.php:1432
+#: shortcodes/architecture-shortcodes.php:1448 shortcodes/price-table.php:146
+msgid "Description"
+msgstr ""
+
+#: shortcodes/architecture-shortcodes.php:1067
+msgid "Code for Icon 1"
+msgstr ""
+
+#: shortcodes/architecture-shortcodes.php:1075
+msgid "Code for Icon 2"
+msgstr ""
+
+#: shortcodes/architecture-shortcodes.php:1083
+msgid "Code for Icon 3"
+msgstr ""
+
+#: shortcodes/architecture-shortcodes.php:1096
+msgid "Process"
+msgstr ""
+
+#: shortcodes/architecture-shortcodes.php:1112
+msgid "Step 1"
+msgstr ""
+
+#: shortcodes/architecture-shortcodes.php:1120
+msgid "Step 2 (if any)"
+msgstr ""
+
+#: shortcodes/architecture-shortcodes.php:1128
+msgid "Step 3 (if any)"
+msgstr ""
+
+#: shortcodes/architecture-shortcodes.php:1136
+msgid "Step 4 (if any)"
+msgstr ""
+
+#: shortcodes/architecture-shortcodes.php:1144
+msgid "Step 5 (if any)"
+msgstr ""
+
+#: shortcodes/architecture-shortcodes.php:1152
+msgid "Step 6 (if any)"
+msgstr ""
+
+#: shortcodes/architecture-shortcodes.php:1160
+msgid "Step 7 (if any)"
+msgstr ""
+
+#: shortcodes/architecture-shortcodes.php:1206
+msgid "Clients Logos Image"
+msgstr ""
+
+#: shortcodes/architecture-shortcodes.php:1219
+msgid "Content Box"
+msgstr ""
+
+#: shortcodes/architecture-shortcodes.php:1243
+msgid "Image Align"
+msgstr ""
+
+#: shortcodes/architecture-shortcodes.php:1246
+msgid "Right"
+msgstr ""
+
+#: shortcodes/architecture-shortcodes.php:1246
+msgid "Left"
+msgstr ""
+
+#: shortcodes/architecture-shortcodes.php:1252
+msgid "Content Box Image"
+msgstr ""
+
+#: shortcodes/architecture-shortcodes.php:1263
+msgid "Achievements"
+msgstr ""
+
+#: shortcodes/architecture-shortcodes.php:1383
+msgid "Background Image"
+msgstr ""
+
+#: shortcodes/architecture-shortcodes.php:1398
+msgid "3 Steps"
+msgstr ""
+
+#: shortcodes/price-table.php:69
+msgid "Pricing Table"
+msgstr ""
+
+#: shortcodes/price-table.php:93
+msgid "Pricing Item"
+msgstr ""
+
+#: shortcodes/price-table.php:113
+msgid "Price"
+msgstr ""
+
+#: shortcodes/price-table.php:121
+msgid "Unit"
+msgstr ""
+
+#: shortcodes/price-table.php:129
+msgid "Tag"
+msgstr ""
+
+#: shortcodes/price-table.php:137
+msgid "Active"
+msgstr ""
+
+#: shortcodes/price-table.php:140
+msgid "True"
+msgstr ""
+
+#: shortcodes/price-table.php:140
+msgid "False"
+msgstr ""
+
+#: shortcodes/price-table.php:154
+msgid "Button Link"
+msgstr ""
