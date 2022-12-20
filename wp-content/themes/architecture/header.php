@@ -283,3 +283,6 @@
 
 	   </nav>
 	</div>
+<script>
+  window.addEventListener('wheel', { passive: false })
+</script>
