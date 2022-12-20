@@ -112,7 +112,7 @@ if ( ! function_exists( 'tsa_achievements_shortcode' ) ) {
 
 			$html_output.='<div class="achiev-sec">
 				<h1>1</h1>
-				<p><strong>'.$title1.'</strong> '.$description1.'</p>
+				<p><strong>'.$title1.'</strong><br> '.$description1.'</p>
 			</div>';
 
 		}
@@ -121,7 +121,7 @@ if ( ! function_exists( 'tsa_achievements_shortcode' ) ) {
 
 			$html_output.='<div class="achiev-sec right">
 				<h1>2</h1>
-				<p><strong>'.$title2.'</strong> '.$description2.'</p>
+				<p><strong>'.$title2.'</strong><br> '.$description2.'</p>
 			</div>';
 
 		}
@@ -132,7 +132,7 @@ if ( ! function_exists( 'tsa_achievements_shortcode' ) ) {
 
 			$html_output.='<div class="achiev-sec">
 				<h1>3</h1>
-				<p><strong>'.$title3.'</strong> '.$description3.'</p>
+				<p><strong>'.$title3.'</strong><br> '.$description3.'</p>
 			</div>';
 
 		}
@@ -141,7 +141,7 @@ if ( ! function_exists( 'tsa_achievements_shortcode' ) ) {
 
 			$html_output.='<div class="achiev-sec right">
 				<h1>4</h1>
-				<p><strong>'.$title4.'</strong> '.$description4.'</p>
+				<p><strong>'.$title4.'</strong><br> '.$description4.'</p>
 			</div>';
 
 		}
@@ -152,7 +152,7 @@ if ( ! function_exists( 'tsa_achievements_shortcode' ) ) {
 
 			$html_output.='<div class="achiev-sec">
 				<h1>5</h1>
-				<p><strong>'.$title5.'</strong> '.$description5.'</p>
+				<p><strong>'.$title5.'</strong><br> '.$description5.'</p>
 			</div>';
 
 		}
@@ -161,7 +161,7 @@ if ( ! function_exists( 'tsa_achievements_shortcode' ) ) {
 
 			$html_output.='<div class="achiev-sec right">
 				<h1>6</h1>
-				<p><strong>'.$title6.'</strong> '.$description6.'</p>
+				<p><strong>'.$title6.'</strong><br> '.$description6.'</p>
 			</div>';
 
 		}

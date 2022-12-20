@@ -48,19 +48,23 @@ while(have_posts()): the_post();
                 else
 
                 $office_class = "office office-right";
-								$location   	= get_sub_field('office_address');
+								$location   	= get_sub_field('office_address') ? get_sub_field('office_address') : '';
 								$phone 	    	= get_sub_field('office_phone');
 								$email 	      = get_sub_field('office_email');
 								$title 		    = get_sub_field('office_name');
-								$lat	        = $location['lat'];
-								$long	        = $location['lng'];
+								if(!empty($location)){
+									$lat	        = $location['lat'];
+									$long	        = $location['lng'];
+									$address		= $location['address'];
+								}
+
 
 								echo	'<div class="'. esc_attr( $office_class ) .'">';
 								echo	'<h5>'. esc_html($title).'</h5>';
 								echo	'<div class="detail">';
 								echo	'<span><strong>T:</strong> '. esc_html($phone).'</span>';
 								echo	'<span><strong>E:</strong> '. esc_html($email).'</span>';
-								echo	'<span class="address">'. esc_html($location['address']).'</span>';
+								echo	'<span class="address">'. esc_html($address).'</span>';
 								echo	'</div></div>';
 
                 if ( $offices_counter == 0 ) {
